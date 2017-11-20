@@ -1,4 +1,4 @@
 function getFirstSelector(selector) {
-  var elementId = document.getElementById("app")
+  var elementId = document.querySelector("selector")
   return elementId
 }
